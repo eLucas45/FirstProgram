@@ -11,7 +11,7 @@ namespace FirstProgram
         
 
         /// <summary>
-        /// Main methord; called on startup
+        /// Main method; called on startup
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
