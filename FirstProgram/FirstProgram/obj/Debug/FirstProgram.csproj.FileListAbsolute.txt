@@ -1,0 +1,7 @@
+H:\Documents\code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+H:\Documents\code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+H:\Documents\code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+H:\Documents\code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojAssemblyReference.cache
+H:\Documents\code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+H:\Documents\code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+H:\Documents\code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
